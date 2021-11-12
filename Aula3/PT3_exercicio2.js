@@ -1,9 +1,8 @@
 var maior = 5 > 1;
 var menor = 2000000 < 3000000000;
-var banana, carro, bicicleta;
-var igual = (banana == banana);
-var estritamenteIgual = 50 === 50;
-var diferente = carro === bicicleta;
+var igual = "banana" == "banana";
+var estritamenteIgual = "50" === 50;
+var diferente = "carro" != "bicicleta";
 var maiorQue = 50 > 27;
 var menorOuIgual = 975 <= 1200;
 
